@@ -1,0 +1,21 @@
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6{
+  text-transform:none;
+}
+
+.reveal h1.smaller{
+  font-size:3.1em;
+}
+
+.reveal h1.smaller-yet{
+  font-size:2.7em;
+}
+
+.reveal h1.smallest{
+  font-size:2.2em;
+}
+
+.reveal section img.no-border{
+  border:0px;
+  box-shadow:none;
+}
+
