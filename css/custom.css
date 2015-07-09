@@ -19,3 +19,7 @@
   box-shadow:none;
 }
 
+.reveal iframe.twitter-tweet{
+  margin-right:auto !important;
+  margin-left:auto !important;
+}
